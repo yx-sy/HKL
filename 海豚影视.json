@@ -36,14 +36,6 @@
             "api": "http://jar.jsy666.xyz/js/lib/drpy2.min.js",
             "ext": "http://jar.jsy666.xyz/js/caigou.js"
         },
-		{
-            "key": "低端",
-            "name": "🛣┃低端┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "http://jar.jsy666.xyz/js/lib/drpy2.min.js",
-            "ext": "http://jar.jsy666.xyz/js/ddys.js"
-        },
 	{
       "key": "闪电影视",
       "name": "🐬闪电影视｜追剧",
