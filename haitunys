@@ -344,14 +344,14 @@
 		},
         {
         "key":"WhosTV",
-        "name":"🐬WhosTV🔞",
+        "name":"🐬WhosTV┃番号🔞",
         "type":3,
         "api":"csp_WhosTV",
         "homePage":"https://fgblh.github.io/uhuj.github.io/missav.html"
         },
         {
         "key":"MissAV",
-        "name":"🐬MissAV┃番号🔞",
+        "name":"🐬MissAV🔞",
         "type":3,
         "api":"csp_MissAV",
         "homePage":"https://fgblh.github.io/uhuj.github.io/WhosTV.html"
