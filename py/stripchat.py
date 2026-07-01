@@ -24,7 +24,7 @@ class Spider(Spider):
         self.headers = {
             'Origin': origin,
             'Referer': f"{origin}/",
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+            'User-Agent':"Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
         }
         self.stripchat_key = self.decode_key_compact()
         # 缓存字典
