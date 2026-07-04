@@ -72,25 +72,25 @@
         },
 		{
 			"key": "kf",
-			"name": "🐬咖啡体育直播.py",
+			"name": "🐬咖啡体育直播.py[直播]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/咖啡直播.py"
 		},
 		{
 			"key": "sm",
-			"name": "🐬韩国熊猫直播.py",
+			"name": "🐬韩国熊猫直播.py[直播]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/熊猫直播.py"
 		},
 		{
 			"key": "blzb",
-			"name": "🐬哔哩直播.py",
+			"name": "🐬哔哩直播.py[直播]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/哔哩直播.py"
 		},
 		{
 			"key": "jhzb",
-			"name": "🐬聚合直播.py",
+			"name": "🐬聚合直播.py[直播]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/聚合直播.py"
 		},
@@ -127,7 +127,7 @@
 		},
 		{
 			"key": "QU",
-			"name": "🐬奇优影院.py",
+			"name": "🐬奇优影院.py[追剧]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/奇优影院.py"
 		},
