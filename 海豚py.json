@@ -138,12 +138,6 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/MiFun动漫.py"
 		},
 		{
-			"key": "ysxs",
-			"name": "🐬有声小说.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/有声小说.py"
-		},
-		{
 			"key": "smdj",
 			"name": "🐬星芽短剧.py",
 			"type": 3,
