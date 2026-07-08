@@ -172,7 +172,6 @@ class Spider(Spider):
                 url_base = lines[i + 1]
                 # 组合最终的URL，并加上psch和pkey参数
                 full_url = f"{url_base}&psch={psch}&pkey={pkey}"
-                proxy_url = f"{self.getProxyUrl()}&url={quote(full_url)}"
                 # 将画质和URL添加到列表中
                 url.append(qn)
                 url.append(full_url)
