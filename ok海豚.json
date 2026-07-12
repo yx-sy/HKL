@@ -1136,6 +1136,18 @@
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
         },
+		{
+            "name": "🐬裤佬TV2",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://tv.tmxk.kdns.fr/ex64181y"
+        },
+		{
+            "name": "🐬live.m3u",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://live.445569.xyz/live.m3u"
+        },
         {
             "name": "🐬Gather",
             "type": 0,
